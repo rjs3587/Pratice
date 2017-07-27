@@ -19,7 +19,7 @@ Icons: 앱의 아이콘이 분리되어 있습니다.
 - `cr ic.png` : 사진수정아이콘
 - `st ic.png` : 설정아이콘
 
-####  RESOURCE - icons - 화면
+####  RESOURCE - icons - 화면이
 
 - `hm ic.png` : 사용량아이콘
 - `p ic.png` : 얼마나썼는지아이콘
